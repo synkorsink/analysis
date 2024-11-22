@@ -1,0 +1,302 @@
+{
+  "p451": [
+    { "1": "ExecutableDenylisting" },
+    { "2": "IPReputationAnalysis" },
+    { "3": "DomainNameReputationAnalysis" },
+    { "4": "FileHashReputationAnalysis" }
+  ],
+  "p452": [
+    { "1": "ExecutableDenylisting" },
+    { "2": "IPReputationAnalysis" },
+    { "3": "DomainNameReputationAnalysis" },
+    { "4": "FileHashReputationAnalysis" }
+  ],
+  "p453": [
+    { "1": "ExecutableDenylisting" },
+    { "2": "IPReputationAnalysis" },
+    { "3": "DomainNameReputationAnalysis" },
+    { "4": "FileHashReputationAnalysis" }
+  ],
+  "p454": [
+    { "1": "ExecutableDenylisting" },
+    { "2": "FileHashReputationAnalysis" },
+    { "3": "FileAnalysis" },
+    { "4": "FileRemoval" }
+  ],
+  "p455": [
+    { "1": "URLReputationAnalysis" },
+    { "2": "ExecutableDenylisting" },
+    { "3": "DomainNameReputationAnalysis" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p456": [
+    { "1": "AccountLocking" },
+    { "2": "DomainAccountMonitoring" },
+    { "3": "CredentialRevoking" },
+    { "4": "CredentialEviction" }
+  ],
+  "p457": [
+    { "1": "AccountLocking" },
+    { "2": "DomainAccountMonitoring" },
+    { "3": "CredentialRevoking" },
+    { "4": "CredentialEviction" }
+  ],
+  "p458": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p459": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p460": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p461": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p462": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p463": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p464": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p465": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p466": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p467": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p468": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p469": [
+    { "1": "ExecutableDenylisting" },
+    { "2": "IPReputationAnalysis" },
+    { "3": "DomainNameReputationAnalysis" },
+    { "4": "FileHashReputationAnalysis" }
+  ],
+  "p470": [
+    { "1": "SenderReputationAnalysis" },
+    { "2": "DomainNameReputationAnalysis" },
+    { "3": "ExecutableDenylisting" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p471": [
+    { "1": "SenderReputationAnalysis" },
+    { "2": "DomainNameReputationAnalysis" },
+    { "3": "ExecutableDenylisting" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p472": [
+    { "1": "URLReputationAnalysis" },
+    { "2": "ExecutableDenylisting" },
+    { "3": "DomainNameReputationAnalysis" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p473": [],
+  "p474": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p475": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p476": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p477": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p478": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p479": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p480": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p481": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p482": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p483": [
+    { "1": "InboundTrafficFiltering" },
+    { "2": "OutboundTrafficFiltering" },
+    { "3": "NetworkTrafficFiltering" },
+    { "4": "IPReputationAnalysis" }
+  ],
+  "p484": [
+    { "1": "DomainNameReputationAnalysis" },
+    { "2": "URLReputationAnalysis" },
+    { "3": "IdentifierReputationAnalysis" },
+    { "4": "IdentifierAnalysis" }
+  ],
+  "p485": [],
+  "p486": [],
+  "p487": [],
+  "p488": [],
+  "p489": [],
+  "p490": [],
+  "p491": [],
+  "p492": [],
+  "p493": [],
+  "p494": [],
+  "p495": [],
+  "p496": [],
+  "p497": [],
+  "p498": [],
+  "p499": [],
+  "p500": [],
+  "p501": [
+    { "1": "AccountLocking" },
+    { "2": "DomainAccountMonitoring" },
+    { "3": "CredentialRevoking" },
+    { "4": "CredentialEviction" }
+  ],
+  "p502": [
+    { "1": "AccountLocking" },
+    { "2": "DomainAccountMonitoring" },
+    { "3": "CredentialRevoking" },
+    { "4": "CredentialEviction" }
+  ],
+  "p503": [
+    { "1": "AccountLocking" },
+    { "2": "DomainAccountMonitoring" },
+    { "3": "CredentialRevoking" },
+    { "4": "CredentialEviction" }
+  ],
+  "p504": [
+    { "1": "AccountLocking" },
+    { "2": "DomainAccountMonitoring" },
+    { "3": "CredentialRevoking" },
+    { "4": "CredentialEviction" }
+  ],
+  "p505": [
+    { "1": "AccountLocking" },
+    { "2": "DomainAccountMonitoring" },
+    { "3": "CredentialRevoking" },
+    { "4": "CredentialEviction" }
+  ],
+  "p506": [],
+  "p507": [],
+  "p508": [],
+  "p509": [],
+  "p510": [],
+  "p511": [],
+  "p512": [],
+  "p513": [],
+  "p514": [],
+  "p515": [],
+  "p516": [],
+  "p517": [],
+  "p518": [],
+  "p519": [],
+  "p520": [],
+  "p521": [],
+  "p522": [],
+  "p523": [],
+  "p524": [],
+  "p525": [],
+  "p526": [],
+  "p527": [],
+  "p528": [],
+  "p529": [],
+  "p530": [],
+  "p531": [],
+  "p532": [],
+  "p533": [],
+  "p534": [],
+  "p535": [
+    { "1": "EmailRemoval" },
+    { "2": "EmailFiltering" },
+    { "3": "SenderReputationAnalysis" },
+    { "4": "DomainNameReputationAnalysis" }
+  ],
+  "p536": [
+    { "1": "EmailRemoval" },
+    { "2": "EmailFiltering" },
+    { "3": "SenderReputationAnalysis" },
+    { "4": "DomainNameReputationAnalysis" }
+  ],
+  "p537": [
+    { "1": "EmailRemoval" },
+    { "2": "EmailFiltering" },
+    { "3": "SenderReputationAnalysis" },
+    { "4": "DomainNameReputationAnalysis" }
+  ],
+  "p538": [
+    { "1": "DNSTrafficAnalysis" },
+    { "2": "URLReputationAnalysis" },
+    { "3": "DomainNameReputationAnalysis" },
+    { "4": "IdentifierReputationAnalysis" }
+  ],
+  "p539": [],
+  "p540": []
+}
