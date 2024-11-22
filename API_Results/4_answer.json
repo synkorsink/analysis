@@ -1,0 +1,357 @@
+{
+  "p991": {"Categories": []},
+  "p992": {"Categories": []},
+  "p993": [
+    {"1": "DynamicAnalysis"},
+    {"2": "FileAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileHashing"}
+  ],
+  "p994": {"Categories": []},
+  "p995": {"Categories": []},
+  "p996": {"Categories": []},
+  "p997": {"Categories": []},
+  "p998": {"Categories": []},
+  "p999": {"Categories": []},
+  "p1000": {"Categories": []},
+  "p1001": [
+    {"1": "URLAnalysis"},
+    {"2": "URLReputationAnalysis"},
+    {"3": "DomainNameReputationAnalysis"},
+    {"4": "HomoglyphDetection"}
+  ],
+  "p1002": {"Categories": []},
+  "p1003": {"Categories": []},
+  "p1004": {"Categories": []},
+  "p1005": [
+    {"1": "URLAnalysis"},
+    {"2": "URLReputationAnalysis"},
+    {"3": "DomainNameReputationAnalysis"},
+    {"4": "HomoglyphDetection"}
+  ],
+  "p1006": {"Categories": []},
+  "p1007": {"Categories": []},
+  "p1008": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1009": {"Categories": []},
+  "p1010": [
+    {"1": "AccessModeling"},
+    {"2": "AccountLocking"},
+    {"3": "AuthenticationEventThresholding"},
+    {"4": "AuthorizationEventThresholding"}
+  ],
+  "p1011": [
+    {"1": "AccessModeling"},
+    {"2": "AccountLocking"},
+    {"3": "AuthenticationEventThresholding"},
+    {"4": "AuthorizationEventThresholding"}
+  ],
+  "p1012": [
+    {"1": "AccessModeling"},
+    {"2": "AccountLocking"},
+    {"3": "AuthenticationEventThresholding"},
+    {"4": "AuthorizationEventThresholding"}
+  ],
+  "p1013": {"Categories": []},
+  "p1014": {"Categories": []},
+  "p1015": [
+    {"1": "AccountLocking"},
+    {"2": "CredentialRevoking"},
+    {"3": "CredentialEviction"},
+    {"4": "CredentialRotation"}
+  ],
+  "p1016": [
+    {"1": "DNSDenylisting"},
+    {"2": "ForwardResolutionDomainDenylisting"},
+    {"3": "ReverseResolutionDomainDenylisting"},
+    {"4": "HierarchicalDomainDenylisting"}
+  ],
+  "p1017": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1018": [
+    {"1": "ExecutableDenylisting"},
+    {"2": "ExecutableAllowlisting"},
+    {"3": "FileHashing"},
+    {"4": "FileHashReputationAnalysis"}
+  ],
+  "p1019": [
+    {"1": "ExecutableDenylisting"},
+    {"2": "ExecutableAllowlisting"},
+    {"3": "FileHashing"},
+    {"4": "FileHashReputationAnalysis"}
+  ],
+  "p1020": [
+    {"1": "InboundTrafficFiltering"},
+    {"2": "OutboundTrafficFiltering"},
+    {"3": "NetworkTrafficFiltering"},
+    {"4": "IPReputationAnalysis"}
+  ],
+  "p1021": [
+    {"1": "InboundTrafficFiltering"},
+    {"2": "OutboundTrafficFiltering"},
+    {"3": "NetworkTrafficFiltering"},
+    {"4": "IPReputationAnalysis"}
+  ],
+  "p1022": [
+    {"1": "URLAnalysis"},
+    {"2": "URLReputationAnalysis"},
+    {"3": "DomainNameReputationAnalysis"},
+    {"4": "HomoglyphDetection"}
+  ],
+  "p1023": {"Categories": []},
+  "p1024": {"Categories": []},
+  "p1025": {"Categories": []},
+  "p1026": {"Categories": []},
+  "p1027": {"Categories": []},
+  "p1028": {"Categories": []},
+  "p1029": {"Categories": []},
+  "p1030": [
+    {"1": "CommandLineAnalysis"},
+    {"2": "ProcessAnalysis"},
+    {"3": "ProcessSpawnAnalysis"},
+    {"4": "ProcessLineageAnalysis"}
+  ],
+  "p1031": [
+    {"1": "NetworkIsolation"},
+    {"2": "AccountLocking"},
+    {"3": "CredentialRevoking"},
+    {"4": "CredentialEviction"}
+  ],
+  "p1032": {"Categories": []},
+  "p1033": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1034": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1035": [
+    {"1": "AssetVulnerabilityEnumeration"},
+    {"2": "ConfigurationInventory"},
+    {"3": "SoftwareInventory"},
+    {"4": "SystemVulnerabilityAssessment"}
+  ],
+  "p1036": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1037": {"Categories": []},
+  "p1038": {"Categories": []},
+  "p1039": {"Categories": []},
+  "p1040": [
+    {"1": "DynamicAnalysis"},
+    {"2": "FileAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileHashing"}
+  ],
+  "p1041": [
+    {"1": "DynamicAnalysis"},
+    {"2": "FileAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileHashing"}
+  ],
+  "p1042": [
+    {"1": "DynamicAnalysis"},
+    {"2": "FileAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileHashing"}
+  ],
+  "p1043": [
+    {"1": "DynamicAnalysis"},
+    {"2": "FileAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileHashing"}
+  ],
+  "p1044": [
+    {"1": "URLAnalysis"},
+    {"2": "URLReputationAnalysis"},
+    {"3": "DomainNameReputationAnalysis"},
+    {"4": "HomoglyphDetection"}
+  ],
+  "p1045": [
+    {"1": "URLAnalysis"},
+    {"2": "URLReputationAnalysis"},
+    {"3": "DomainNameReputationAnalysis"},
+    {"4": "HomoglyphDetection"}
+  ],
+  "p1046": [
+    {"1": "URLAnalysis"},
+    {"2": "URLReputationAnalysis"},
+    {"3": "DomainNameReputationAnalysis"},
+    {"4": "HomoglyphDetection"}
+  ],
+  "p1047": [
+    {"1": "URLAnalysis"},
+    {"2": "URLReputationAnalysis"},
+    {"3": "DomainNameReputationAnalysis"},
+    {"4": "HomoglyphDetection"}
+  ],
+  "p1048": [
+    {"1": "DomainNameReputationAnalysis"},
+    {"2": "DomainTrustPolicy"},
+    {"3": "DNSAllowlisting"},
+    {"4": "DNSDenylisting"}
+  ],
+  "p1049": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1050": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1051": [
+    {"1": "EndpointHealthBeacon"},
+    {"2": "OperatingSystemMonitoring"},
+    {"3": "PlatformMonitoring"},
+    {"4": "SystemFileAnalysis"}
+  ],
+  "p1052": [
+    {"1": "EndpointHealthBeacon"},
+    {"2": "OperatingSystemMonitoring"},
+    {"3": "PlatformMonitoring"},
+    {"4": "SystemFileAnalysis"}
+  ],
+  "p1053": [
+    {"1": "EndpointHealthBeacon"},
+    {"2": "OperatingSystemMonitoring"},
+    {"3": "PlatformMonitoring"},
+    {"4": "SystemFileAnalysis"}
+  ],
+  "p1054": [
+    {"1": "EndpointHealthBeacon"},
+    {"2": "OperatingSystemMonitoring"},
+    {"3": "PlatformMonitoring"},
+    {"4": "SystemFileAnalysis"}
+  ],
+  "p1055": {"Categories": []},
+  "p1056": {"Categories": []},
+  "p1057": {"Categories": []},
+  "p1058": {"Categories": []},
+  "p1059": [
+    {"1": "CredentialRevoking"},
+    {"2": "CredentialEviction"},
+    {"3": "CredentialRotation"},
+    {"4": "CredentialHardening"}
+  ],
+  "p1060": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1061": {"Categories": []},
+  "p1062": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1063": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1064": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1065": {"Categories": []},
+  "p1066": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1067": [
+    {"1": "EndpointHealthBeacon"},
+    {"2": "OperatingSystemMonitoring"},
+    {"3": "PlatformMonitoring"},
+    {"4": "SystemFileAnalysis"}
+  ],
+  "p1068": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1069": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1070": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1071": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1072": [
+    {"1": "FileHashing"},
+    {"2": "FileHashReputationAnalysis"},
+    {"3": "FileContentAnalysis"},
+    {"4": "FileAnalysis"}
+  ],
+  "p1073": [
+    {"1": "EndpointHealthBeacon"},
+    {"2": "OperatingSystemMonitoring"},
+    {"3": "PlatformMonitoring"},
+    {"4": "SystemFileAnalysis"}
+  ],
+  "p1074": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1075": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1076": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1077": [
+    {"1": "EmailFiltering"},
+    {"2": "EmailRemoval"},
+    {"3": "SenderReputationAnalysis"},
+    {"4": "SenderMTAReputationAnalysis"}
+  ],
+  "p1078": {"Categories": []},
+  "p1079": {"Categories": []},
+  "p1080": {"Categories": []}
+}

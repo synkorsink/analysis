@@ -1,0 +1,342 @@
+{
+  "p721": [],
+  "p722": [],
+  "p723": [],
+  "p724": [],
+  "p725": [],
+  "p726": [],
+  "p727": [],
+  "p728": [],
+  "p729": [],
+  "p730": [
+    { "1": "DomainAccountMonitoring" },
+    { "2": "UserAccountPermissions" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p731": [
+    { "1": "SystemConfigurationPermissions" },
+    { "2": "SystemFileAnalysis" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p732": [
+    { "1": "AuthenticationEventThresholding" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p733": [
+    { "1": "UserAccountPermissions" },
+    { "2": "SystemConfigurationPermissions" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p734": [
+    { "1": "ServiceBinaryVerification" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p735": [
+    { "1": "FileAnalysis" },
+    { "2": "FileContentAnalysis" },
+    { "3": "FileHashing" },
+    { "4": "FileIntegrityMonitoring" }
+  ],
+  "p736": [
+    { "1": "ProcessAnalysis" },
+    { "2": "ProcessSpawnAnalysis" },
+    { "3": "ProcessLineageAnalysis" },
+    { "4": "ProcessSelf-ModificationDetection" }
+  ],
+  "p737": [
+    { "1": "SystemDaemonMonitoring" },
+    { "2": "ServiceBinaryVerification" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p738": [
+    { "1": "SystemDaemonMonitoring" },
+    { "2": "ServiceBinaryVerification" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p739": [
+    { "1": "LocalAccountMonitoring" },
+    { "2": "UserAccountPermissions" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p740": [
+    { "1": "SystemFileAnalysis" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p741": [
+    { "1": "FileAnalysis" },
+    { "2": "FileContentAnalysis" },
+    { "3": "FileHashing" },
+    { "4": "FileIntegrityMonitoring" }
+  ],
+  "p742": [],
+  "p743": [],
+  "p744": [
+    { "1": "SoftwareInventory" },
+    { "2": "ConfigurationInventory" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p745": [
+    { "1": "SystemFileAnalysis" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p746": [],
+  "p747": [
+    { "1": "SystemFileAnalysis" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p748": [
+    { "1": "SystemFileAnalysis" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p749": [
+    { "1": "EmailFiltering" },
+    { "2": "EmailRemoval" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p750": [
+    { "1": "NetworkTrafficAnalysis" },
+    { "2": "NetworkTrafficFiltering" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p751": [
+    { "1": "NetworkTrafficAnalysis" },
+    { "2": "NetworkTrafficFiltering" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p752": [
+    { "1": "SystemFileAnalysis" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p753": [],
+  "p754": [],
+  "p755": [
+    { "1": "HostReboot" },
+    { "2": "ProcessEviction" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p756": [
+    { "1": "HostShutdown" },
+    { "2": "ProcessEviction" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p757": [],
+  "p758": [],
+  "p759": [],
+  "p760": [
+    { "1": "SoftwareInventory" },
+    { "2": "ConfigurationInventory" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p761": [
+    { "1": "SoftwareInventory" },
+    { "2": "ConfigurationInventory" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p762": [
+    { "1": "SoftwareInventory" },
+    { "2": "ConfigurationInventory" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p763": [
+    { "1": "SoftwareInventory" },
+    { "2": "ConfigurationInventory" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p764": [
+    { "1": "SoftwareInventory" },
+    { "2": "ConfigurationInventory" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p765": [
+    { "1": "FileEviction" },
+    { "2": "FileRemoval" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p766": [
+    { "1": "FileEviction" },
+    { "2": "FileRemoval" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p767": [],
+  "p768": [],
+  "p769": [
+    { "1": "FileEviction" },
+    { "2": "FileRemoval" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p770": [
+    { "1": "SoftwareInventory" },
+    { "2": "ConfigurationInventory" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p771": [
+    { "1": "SystemDaemonMonitoring" },
+    { "2": "ServiceBinaryVerification" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p772": [
+    { "1": "SystemDaemonMonitoring" },
+    { "2": "ServiceBinaryVerification" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p773": [
+    { "1": "URLAnalysis" },
+    { "2": "URLReputationAnalysis" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p774": [
+    { "1": "SystemDaemonMonitoring" },
+    { "2": "ServiceBinaryVerification" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p775": [
+    { "1": "SystemDaemonMonitoring" },
+    { "2": "ServiceBinaryVerification" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p776": [],
+  "p777": [],
+  "p778": [
+    { "1": "ProcessAnalysis" },
+    { "2": "ProcessSpawnAnalysis" },
+    { "3": "ProcessLineageAnalysis" },
+    { "4": "ProcessSelf-ModificationDetection" }
+  ],
+  "p779": [],
+  "p780": [
+    { "1": "SystemDaemonMonitoring" },
+    { "2": "ServiceBinaryVerification" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p781": [
+    { "1": "URLAnalysis" },
+    { "2": "URLReputationAnalysis" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p782": [
+    { "1": "SystemFileAnalysis" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p783": [
+    { "1": "SystemFileAnalysis" },
+    { "2": "AccessModeling" },
+    { "3": "AdministrativeNetworkActivityAnalysis" },
+    { "4": "UserBehaviorAnalysis" }
+  ],
+  "p784": [
+    { "1": "UnlockAccount" },
+    { "2": "UserAccountPermissions" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p785": [],
+  "p786": [],
+  "p787": [
+    { "1": "EmailFiltering" },
+    { "2": "EmailRemoval" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p788": [],
+  "p789": [
+    { "1": "EmailFiltering" },
+    { "2": "EmailRemoval" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p790": [],
+  "p791": [],
+  "p792": [
+    { "1": "FileHashing" },
+    { "2": "FileHashReputationAnalysis" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p793": [],
+  "p794": [
+    { "1": "IPReputationAnalysis" },
+    { "2": "IdentifierReputationAnalysis" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p795": [],
+  "p796": [],
+  "p797": [],
+  "p798": [
+    { "1": "URLAnalysis" },
+    { "2": "URLReputationAnalysis" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p799": [],
+  "p800": [],
+  "p801": [],
+  "p802": [],
+  "p803": [],
+  "p804": [],
+  "p805": [],
+  "p806": [
+    { "1": "PhishingDetection" },
+    { "2": "ThreatIntelligence" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p807": [
+    { "1": "CertificateAnalysis" },
+    { "2": "ActiveCertificateAnalysis" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p808": [
+    { "1": "CredentialRotation" },
+    { "2": "CredentialRevoking" },
+    { "3": "AccessModeling" },
+    { "4": "AdministrativeNetworkActivityAnalysis" }
+  ],
+  "p809": [],
+  "p810": []
+}
