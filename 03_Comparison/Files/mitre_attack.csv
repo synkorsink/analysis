@@ -1,0 +1,203 @@
+attack_id,name,tactics
+T1001,Data Obfuscation,{'command-and-control'}
+T1003,OS Credential Dumping,{'credential-access'}
+T1005,Data from Local System,{'collection'}
+T1006,Direct Volume Access,{'defense-evasion'}
+T1007,System Service Discovery,{'discovery'}
+T1008,Fallback Channels,{'command-and-control'}
+T1010,Application Window Discovery,{'discovery'}
+T1011,Exfiltration Over Other Network Medium,{'exfiltration'}
+T1012,Query Registry,{'discovery'}
+T1014,Rootkit,{'defense-evasion'}
+T1016,System Network Configuration Discovery,{'discovery'}
+T1018,Remote System Discovery,{'discovery'}
+T1020,Automated Exfiltration,{'exfiltration'}
+T1021,Remote Services,{'lateral-movement'}
+T1025,Data from Removable Media,{'collection'}
+T1027,Obfuscated Files or Information,{'defense-evasion'}
+T1029,Scheduled Transfer,{'exfiltration'}
+T1030,Data Transfer Size Limits,{'exfiltration'}
+T1033,System Owner/User Discovery,{'discovery'}
+T1036,Masquerading,{'defense-evasion'}
+T1037,Boot or Logon Initialization Scripts,"{'privilege-escalation', 'persistence'}"
+T1039,Data from Network Shared Drive,{'collection'}
+T1040,Network Sniffing,"{'credential-access', 'discovery'}"
+T1041,Exfiltration Over C2 Channel,{'exfiltration'}
+T1046,Network Service Discovery,{'discovery'}
+T1047,Windows Management Instrumentation,{'execution'}
+T1048,Exfiltration Over Alternative Protocol,{'exfiltration'}
+T1049,System Network Connections Discovery,{'discovery'}
+T1052,Exfiltration Over Physical Medium,{'exfiltration'}
+T1053,Scheduled Task/Job,"{'privilege-escalation', 'execution', 'persistence'}"
+T1055,Process Injection,"{'defense-evasion', 'privilege-escalation'}"
+T1056,Input Capture,"{'credential-access', 'collection'}"
+T1057,Process Discovery,{'discovery'}
+T1059,Command and Scripting Interpreter,{'execution'}
+T1068,Exploitation for Privilege Escalation,{'privilege-escalation'}
+T1069,Permission Groups Discovery,{'discovery'}
+T1070,Indicator Removal,{'defense-evasion'}
+T1071,Application Layer Protocol,{'command-and-control'}
+T1072,Software Deployment Tools,"{'lateral-movement', 'execution'}"
+T1074,Data Staged,{'collection'}
+T1078,Valid Accounts,"{'defense-evasion', 'privilege-escalation', 'initial-access', 'persistence'}"
+T1080,Taint Shared Content,{'lateral-movement'}
+T1082,System Information Discovery,{'discovery'}
+T1083,File and Directory Discovery,{'discovery'}
+T1087,Account Discovery,{'discovery'}
+T1090,Proxy,{'command-and-control'}
+T1091,Replication Through Removable Media,"{'lateral-movement', 'initial-access'}"
+T1092,Communication Through Removable Media,{'command-and-control'}
+T1095,Non-Application Layer Protocol,{'command-and-control'}
+T1098,Account Manipulation,"{'privilege-escalation', 'persistence'}"
+T1102,Web Service,{'command-and-control'}
+T1104,Multi-Stage Channels,{'command-and-control'}
+T1105,Ingress Tool Transfer,{'command-and-control'}
+T1106,Native API,{'execution'}
+T1110,Brute Force,{'credential-access'}
+T1111,Multi-Factor Authentication Interception,{'credential-access'}
+T1112,Modify Registry,{'defense-evasion'}
+T1113,Screen Capture,{'collection'}
+T1114,Email Collection,{'collection'}
+T1115,Clipboard Data,{'collection'}
+T1119,Automated Collection,{'collection'}
+T1120,Peripheral Device Discovery,{'discovery'}
+T1123,Audio Capture,{'collection'}
+T1124,System Time Discovery,{'discovery'}
+T1125,Video Capture,{'collection'}
+T1127,Trusted Developer Utilities Proxy Execution,{'defense-evasion'}
+T1129,Shared Modules,{'execution'}
+T1132,Data Encoding,{'command-and-control'}
+T1133,External Remote Services,"{'initial-access', 'persistence'}"
+T1134,Access Token Manipulation,"{'defense-evasion', 'privilege-escalation'}"
+T1135,Network Share Discovery,{'discovery'}
+T1136,Create Account,{'persistence'}
+T1137,Office Application Startup,{'persistence'}
+T1140,Deobfuscate/Decode Files or Information,{'defense-evasion'}
+T1176,Browser Extensions,{'persistence'}
+T1185,Browser Session Hijacking,{'collection'}
+T1187,Forced Authentication,{'credential-access'}
+T1189,Drive-by Compromise,{'initial-access'}
+T1190,Exploit Public-Facing Application,{'initial-access'}
+T1195,Supply Chain Compromise,{'initial-access'}
+T1197,BITS Jobs,"{'defense-evasion', 'persistence'}"
+T1199,Trusted Relationship,{'initial-access'}
+T1200,Hardware Additions,{'initial-access'}
+T1201,Password Policy Discovery,{'discovery'}
+T1202,Indirect Command Execution,{'defense-evasion'}
+T1203,Exploitation for Client Execution,{'execution'}
+T1204,User Execution,{'execution'}
+T1205,Traffic Signaling,"{'defense-evasion', 'command-and-control', 'persistence'}"
+T1207,Rogue Domain Controller,{'defense-evasion'}
+T1210,Exploitation of Remote Services,{'lateral-movement'}
+T1211,Exploitation for Defense Evasion,{'defense-evasion'}
+T1212,Exploitation for Credential Access,{'credential-access'}
+T1213,Data from Information Repositories,{'collection'}
+T1216,System Script Proxy Execution,{'defense-evasion'}
+T1217,Browser Information Discovery,{'discovery'}
+T1218,System Binary Proxy Execution,{'defense-evasion'}
+T1219,Remote Access Software,{'command-and-control'}
+T1220,XSL Script Processing,{'defense-evasion'}
+T1221,Template Injection,{'defense-evasion'}
+T1222,File and Directory Permissions Modification,{'defense-evasion'}
+T1480,Execution Guardrails,{'defense-evasion'}
+T1482,Domain Trust Discovery,{'discovery'}
+T1484,Domain or Tenant Policy Modification,"{'defense-evasion', 'privilege-escalation'}"
+T1485,Data Destruction,{'impact'}
+T1486,Data Encrypted for Impact,{'impact'}
+T1489,Service Stop,{'impact'}
+T1490,Inhibit System Recovery,{'impact'}
+T1491,Defacement,{'impact'}
+T1495,Firmware Corruption,{'impact'}
+T1496,Resource Hijacking,{'impact'}
+T1497,Virtualization/Sandbox Evasion,"{'defense-evasion', 'discovery'}"
+T1498,Network Denial of Service,{'impact'}
+T1499,Endpoint Denial of Service,{'impact'}
+T1505,Server Software Component,{'persistence'}
+T1518,Software Discovery,{'discovery'}
+T1525,Implant Internal Image,{'persistence'}
+T1526,Cloud Service Discovery,{'discovery'}
+T1528,Steal Application Access Token,{'credential-access'}
+T1529,System Shutdown/Reboot,{'impact'}
+T1530,Data from Cloud Storage,{'collection'}
+T1531,Account Access Removal,{'impact'}
+T1534,Internal Spearphishing,{'lateral-movement'}
+T1535,Unused/Unsupported Cloud Regions,{'defense-evasion'}
+T1537,Transfer Data to Cloud Account,{'exfiltration'}
+T1538,Cloud Service Dashboard,{'discovery'}
+T1539,Steal Web Session Cookie,{'credential-access'}
+T1542,Pre-OS Boot,"{'defense-evasion', 'persistence'}"
+T1543,Create or Modify System Process,"{'privilege-escalation', 'persistence'}"
+T1546,Event Triggered Execution,"{'privilege-escalation', 'persistence'}"
+T1547,Boot or Logon Autostart Execution,"{'privilege-escalation', 'persistence'}"
+T1548,Abuse Elevation Control Mechanism,"{'defense-evasion', 'privilege-escalation'}"
+T1550,Use Alternate Authentication Material,"{'lateral-movement', 'defense-evasion'}"
+T1552,Unsecured Credentials,{'credential-access'}
+T1553,Subvert Trust Controls,{'defense-evasion'}
+T1554,Compromise Host Software Binary,{'persistence'}
+T1555,Credentials from Password Stores,{'credential-access'}
+T1556,Modify Authentication Process,"{'defense-evasion', 'credential-access', 'persistence'}"
+T1557,Adversary-in-the-Middle,"{'credential-access', 'collection'}"
+T1558,Steal or Forge Kerberos Tickets,{'credential-access'}
+T1559,Inter-Process Communication,{'execution'}
+T1560,Archive Collected Data,{'collection'}
+T1561,Disk Wipe,{'impact'}
+T1562,Impair Defenses,{'defense-evasion'}
+T1563,Remote Service Session Hijacking,{'lateral-movement'}
+T1564,Hide Artifacts,{'defense-evasion'}
+T1565,Data Manipulation,{'impact'}
+T1566,Phishing,{'initial-access'}
+T1567,Exfiltration Over Web Service,{'exfiltration'}
+T1568,Dynamic Resolution,{'command-and-control'}
+T1569,System Services,{'execution'}
+T1570,Lateral Tool Transfer,{'lateral-movement'}
+T1571,Non-Standard Port,{'command-and-control'}
+T1572,Protocol Tunneling,{'command-and-control'}
+T1573,Encrypted Channel,{'command-and-control'}
+T1574,Hijack Execution Flow,"{'defense-evasion', 'privilege-escalation', 'persistence'}"
+T1578,Modify Cloud Compute Infrastructure,{'defense-evasion'}
+T1580,Cloud Infrastructure Discovery,{'discovery'}
+T1583,Acquire Infrastructure,{'resource-development'}
+T1584,Compromise Infrastructure,{'resource-development'}
+T1585,Establish Accounts,{'resource-development'}
+T1586,Compromise Accounts,{'resource-development'}
+T1587,Develop Capabilities,{'resource-development'}
+T1588,Obtain Capabilities,{'resource-development'}
+T1589,Gather Victim Identity Information,{'reconnaissance'}
+T1590,Gather Victim Network Information,{'reconnaissance'}
+T1591,Gather Victim Org Information,{'reconnaissance'}
+T1592,Gather Victim Host Information,{'reconnaissance'}
+T1593,Search Open Websites/Domains,{'reconnaissance'}
+T1594,Search Victim-Owned Websites,{'reconnaissance'}
+T1595,Active Scanning,{'reconnaissance'}
+T1596,Search Open Technical Databases,{'reconnaissance'}
+T1597,Search Closed Sources,{'reconnaissance'}
+T1598,Phishing for Information,{'reconnaissance'}
+T1599,Network Boundary Bridging,{'defense-evasion'}
+T1600,Weaken Encryption,{'defense-evasion'}
+T1601,Modify System Image,{'defense-evasion'}
+T1602,Data from Configuration Repository,{'collection'}
+T1606,Forge Web Credentials,{'credential-access'}
+T1608,Stage Capabilities,{'resource-development'}
+T1609,Container Administration Command,{'execution'}
+T1610,Deploy Container,"{'defense-evasion', 'execution'}"
+T1611,Escape to Host,{'privilege-escalation'}
+T1612,Build Image on Host,{'defense-evasion'}
+T1613,Container and Resource Discovery,{'discovery'}
+T1614,System Location Discovery,{'discovery'}
+T1615,Group Policy Discovery,{'discovery'}
+T1619,Cloud Storage Object Discovery,{'discovery'}
+T1620,Reflective Code Loading,{'defense-evasion'}
+T1621,Multi-Factor Authentication Request Generation,{'credential-access'}
+T1622,Debugger Evasion,"{'defense-evasion', 'discovery'}"
+T1647,Plist File Modification,{'defense-evasion'}
+T1648,Serverless Execution,{'execution'}
+T1649,Steal or Forge Authentication Certificates,{'credential-access'}
+T1650,Acquire Access,{'resource-development'}
+T1651,Cloud Administration Command,{'execution'}
+T1652,Device Driver Discovery,{'discovery'}
+T1653,Power Settings,{'persistence'}
+T1654,Log Enumeration,{'discovery'}
+T1656,Impersonation,{'defense-evasion'}
+T1657,Financial Theft,{'impact'}
+T1659,Content Injection,"{'command-and-control', 'initial-access'}"
+T1665,Hide Infrastructure,{'command-and-control'}
